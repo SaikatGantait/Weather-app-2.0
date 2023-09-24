@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+<img src="https://pixabay.com/photos/thunderstorm-wallpaper-clouds-storm-3625405/" width="100%">
 </p>
 
 <p align="center">
