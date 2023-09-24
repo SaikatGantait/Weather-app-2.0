@@ -1,6 +1,5 @@
 <p align="center">
-<img src="![pexels-photo-1162251](https://github.com/SaikatGantait/Project-2/assets/88987186/780915a9-3d3e-4546-8e2d-5d309f6a3b3b)
-" width="100%">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
 </p>
 
 <p align="center">
